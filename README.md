@@ -9,10 +9,10 @@
 - ⚡ Fun fact: I'm HUMAN.
 
 <p align="left">
-<a href="https://codepen.io/naxeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="naxeem" height="18" width="18" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/naxeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naxeem" height="18" width="18" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/naxeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naxeem" height="18" width="18" /></a>&nbsp;&nbsp;
-<a href="https://dribbble.com/naxeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="naxeem" height="18" width="18" /></a>&nbsp;&nbsp;
-<a href="https://www.behance.net/naxeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="naxeem" height="18" width="18" /></a>&nbsp;&nbsp;
-<a href="https://www.polywork.com/naxeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/polywork.svg" alt="naxeem" height="18" width="18" /></a>
+<a href="https://codepen.io/naxeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/codepen.svg" alt="naxeem" height="18" width="18" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/naxeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/twitter.svg" alt="naxeem" height="18" width="18" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/naxeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/linkedin.svg" alt="naxeem" height="18" width="18" /></a>&nbsp;&nbsp;
+<a href="https://dribbble.com/naxeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/dribbble.svg" alt="naxeem" height="18" width="18" /></a>&nbsp;&nbsp;
+<a href="https://www.behance.net/naxeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/behance.svg" alt="naxeem" height="18" width="18" /></a>&nbsp;&nbsp;
+<a href="https://www.polywork.com/naxeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/polywork.svg" alt="naxeem" height="18" width="18" /></a>
 </p>
