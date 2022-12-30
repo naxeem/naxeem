@@ -2,11 +2,10 @@
 
 - 🌱 I’m currently learning **Everything**
 - 📝 I regulary write articles on [naxeem.com](https://www.naxeem.com)
-- 👯 I’m looking to collaborate on interesting projects
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.afphoto`, `.afdesign`
-- 💬 Ask me about **design**, **branding**, **front-end development**
+- ⚙️ I use daily: `.html`, `.css`, `.svg`, `.afphoto`, `.afdesign`, `.php`, `.js`, 
+- 💬 Ask me about **UI/UX**, **design**, **branding**, **front-end development**
 - 📫 How to reach me: [twitter.com/naxeem](https://twitter.com/naxeem)
-- ⚡ Fun fact: I'm HUMAN.
+- ⚡ Fun fact:.
 
 <p align="left flex">
 <a href="https://codepen.io/naxeem" target="blank" style="background-color: rgb(221, 221, 221);display: flex;justify-content: center;width: 30px;height: 30px;justify-items: center;align-items: center;border-radius: 100%;"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/codepen.svg" alt="naxeem" height="18" width="18" style="background-color:transparent" /></a>&nbsp;&nbsp;
