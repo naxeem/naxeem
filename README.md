@@ -6,6 +6,11 @@ Welcome to my GitHub profile! I'm passionate about all things design and develop
 - **Front-end Development:** I specialize in building responsive and interactive websites, and webapps using **NuxtJs 3**, **VueJs 3**, and **Tailwind CSS**.
 - **UI/UX Design:** Proficient in **Figma** for designing intuitive and aesthetically pleasing user interfaces.
 
+🛠️ Projects
+- **HTML Templates:** [raalhu-blog](https://github.com/naxeem/raalhu-blog), [fiya-company](https://github.com/naxeem/fiya-company).
+- **Thaana Transliterator:** [Composer package](https://github.com/naxeem/thaana-transliterator), [PHP Class](https://github.com/naxeem/thaana-transliterator-php-class), [Javascript](https://github.com/naxeem/thaana-transliterator-js).
+- **Maldives Atoll and Islands Json and Js Objects:** [maldives-atoll-islands](https://github.com/naxeem/maldives-atoll-islands)
+
 🌱 What I’m currently learning
 - I'm diving deep into everything related to front-end technologies and design. Constantly exploring new trends and techniques to keep my skills sharp.
 
